@@ -1,8 +1,8 @@
-# cron-builder
+# cron-next-runs-builder
 
 Visual cron expression builder with human-readable description and the next 5 firing times. Single HTML file. Browser-only.
 
-**Live demo:** https://0xelitesystem.github.io/cron-builder/
+**Live demo:** https://0xelitesystem.github.io/cron-next-runs-builder/
 
 ## Why this exists
 
@@ -12,7 +12,7 @@ It is a single HTML file with no tracking and no network calls, and it is MIT li
 
 ## Use
 
-Open `index.html` in any browser, or visit the hosted demo at `https://0xelitesystem.github.io/cron-builder/` once Pages is enabled.
+Open `index.html` in any browser, or visit the hosted demo at `https://0xelitesystem.github.io/cron-next-runs-builder/` once Pages is enabled.
 
 1. Edit the five fields directly (minute, hour, day-of-month, month, day-of-week).
 2. The expression updates as you type.
@@ -65,8 +65,8 @@ Everything runs in your browser. The page makes no network requests, loads no ex
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/cron-builder
-cd cron-builder
+git clone https://github.com/0xelitesystem/cron-next-runs-builder
+cd cron-next-runs-builder
 ```
 
 Then open `index.html` in any modern browser, or serve the folder with `python -m http.server` and visit http://localhost:8000/.
