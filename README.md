@@ -85,6 +85,6 @@ MIT. See [LICENSE](LICENSE).
 
 ## Related
 
-- [csp-builder](https://github.com/0xelitesystem/csp-builder), build Content-Security-Policy headers visually
+- [csp-header-visual-builder](https://github.com/0xelitesystem/csp-header-visual-builder), build Content-Security-Policy headers visually
 - [regex-tester-with-explainer](https://github.com/0xelitesystem/regex-tester-with-explainer), test and explain regex
 - [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything), convert CSV to JSON/SQL/Markdown/TS
